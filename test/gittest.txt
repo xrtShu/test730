@@ -15,5 +15,4 @@ three:
 Creating a new branch is quick -- "dev"
 But no use Fast forward merge.
 
-----------------------------------------
-team work dev origin/dev
+=======this is xrtTeamgit========
